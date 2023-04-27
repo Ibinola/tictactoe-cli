@@ -99,7 +99,7 @@ async function playGame() {
             console.log("It's a tie!");
             break;
         }
-
+git
         // Switch to the other player
         currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
     }
